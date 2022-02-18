@@ -1,0 +1,12 @@
+2022-02-13 13:13:55 INFO  Trace_Automationlog:96 - **********************Automation Execution Started*******************
+2022-02-13 13:14:00 INFO  Trace_Automationlog:84 - Executing 'launchBrowser' method,The browser 'chrome' has launched successful
+2022-02-13 13:14:05 INFO  Trace_Automationlog:96 - ****TC_Frame_Automate:- started*****
+2022-02-13 13:14:10 INFO  Trace_Automationlog:84 - The element 'FrameSet_Tab' was clicked successful
+2022-02-13 13:14:10 INFO  Trace_Automationlog:84 - The frame 'ParentFrame'  is Switched successful
+2022-02-13 13:14:16 INFO  Trace_Automationlog:84 - The element 'Open_Frameset_Window' was clicked successful
+2022-02-13 13:14:28 INFO  Trace_Automationlog:84 - The frame 'Top_Frameset_Window'  is Switched successful
+2022-02-13 13:14:31 INFO  Trace_Automationlog:84 - The Text 'Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text. Demo text.' was get from the element 'Read_Text_Top_Frameset_Window' successful
+2022-02-13 13:14:41 INFO  Trace_Automationlog:84 - The frame 'Bottom_Frame'  is Switched successful
+2022-02-13 13:14:43 INFO  Trace_Automationlog:84 - The Text 'www.way2automation.com' was get from the element 'Bottom_Frame_Text' successful
+2022-02-13 13:14:43 INFO  Trace_Automationlog:84 - 'TC_Frame_Automate' script was Successful
+2022-02-13 13:14:45 INFO  Trace_Automationlog:96 - **********************Automation Execution End*******************
